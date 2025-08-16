@@ -16,7 +16,7 @@
 ai_research_papers_study_note/
 ├── README.md                 # 項目說明
 ├── papers/                   # 論文筆記主目錄
-│   ├── 2024/                # 按年份分類
+│   ├── 2025/                # 按年份分類
 │   │   ├── machine-learning/
 │   │   ├── deep-learning/
 │   │   ├── nlp/
@@ -24,7 +24,7 @@ ai_research_papers_study_note/
 │   │   └── others/
 │   └── index.md             # 論文索引
 └── guides/                  # 導讀文章
-    ├── 2024/
+    ├── 2025/
     └── index.md
 ```
 
