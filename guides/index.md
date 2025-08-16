@@ -4,7 +4,8 @@
 
 ## 2025 年導讀
 
-<!-- 在此添加 2025 年的導讀文章連結 -->
+### Natural Language Processing (NLP)
+- [Provence: RAG 系統的高效上下文剪枝技術導讀](2025/provence_guide.md) - 解決 RAG 範式中過長上下文問題的創新方法
 
 ---
 

@@ -11,7 +11,9 @@
 <!-- 在此添加深度學習相關論文 -->
 
 ### Natural Language Processing (NLP)
-<!-- 在此添加自然語言處理相關論文 -->
+- [Provence: 用於檢索增強生成的高效且強健的上下文剪枝技術](2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_zh.md) - RAG 系統的上下文裁剪器
+  - 英文版本: [English](2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_en.md)
+  - 導讀: [中文導讀](../guides/2025/provence_guide.md)
 
 ### Computer Vision
 <!-- 在此添加電腦視覺相關論文 -->
