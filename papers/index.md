@@ -14,6 +14,9 @@
 - [Provence: 用於檢索增強生成的高效且強健的上下文剪枝技術](2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_zh.md) - RAG 系統的上下文裁剪器
   - 英文版本: [English](2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_en.md)
   - 導讀: [中文導讀](../guides/2025/provence_guide.md)
+- [CoALA: 語言代理的認知架構](2025/nlp/cognitive-architectures-for-language-agents/coala_zh.md) - 語言代理的統一概念框架
+  - 英文版本: [English](2025/nlp/cognitive-architectures-for-language-agents/coala_en.md)
+  - 導讀: [中文導讀](../guides/2025/coala_guide.md)
 
 ### Computer Vision
 <!-- 在此添加電腦視覺相關論文 -->
