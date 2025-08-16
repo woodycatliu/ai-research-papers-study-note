@@ -7,6 +7,7 @@
 ### Natural Language Processing (NLP)
 - [Provence: RAG 系統的高效上下文剪枝技術導讀](2025/provence_guide.md) - 解決 RAG 範式中過長上下文問題的創新方法
 - [CoALA: 語言代理認知架構導讀](2025/coala_guide.md) - 統一語言代理設計的概念框架
+- [Reflexion: 帶有語言強化學習的語言代理導讀](2025/reflexion_guide.md) - 透過口頭反思實現強化學習的革命性方法
 
 ---
 

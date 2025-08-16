@@ -11,6 +11,10 @@
 - [CoALA: 語言代理的認知架構](2025/nlp/cognitive-architectures-for-language-agents/coala_zh.md) - 語言代理的統一概念框架
   - 英文版本: [English](2025/nlp/cognitive-architectures-for-language-agents/coala_en.md)
   - 導讀: [中文導讀](../guides/2025/coala_guide.md)
+- [Reflexion: 帶有語言強化學習的語言代理](2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_zh.md) - 透過口頭反思進行強化學習的創新框架
+  - 英文版本: [English](2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_en.md)
+  - 導讀: [中文導讀](../guides/2025/reflexion_guide.md)
+  - 總結筆記: [Summary](2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_summary.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
