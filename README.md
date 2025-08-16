@@ -6,6 +6,7 @@
 
 - **AI 輔助學習**: 全程使用 NotebookLM 作為學習夥伴，提升理解深度
 - **深度消化**: 所有論文都經完整閱讀學習後才收錄，確保內容品質
+- **工具標準化**: 提供可重複使用的 Prompts 和模板，優化學習流程
 - **雙語筆記**: 每篇論文都有英文和中文兩個版本的筆記
 - **中文導讀**: 為每篇論文撰寫詳細的中文導讀，便於理解
 - **手機友善**: 使用 Markdown 格式，方便在各種設備上閱讀
@@ -42,9 +43,14 @@ ai_research_papers_study_note/
 │   │   ├── nlp/             # 自然語言處理
 │   │   └── others/          # 其他跨領域研究
 │   └── index.md             # 論文索引
-└── guides/                  # 導讀文章
-    ├── 2025/
-    └── index.md
+├── guides/                  # 導讀文章
+│   ├── 2025/
+│   └── index.md
+├── tools/                   # 學習工具庫
+│   └── README.md            # 工具說明和使用指南
+└── preparation/             # 論文處理規則
+    ├── README_RULES.md      # 詳細處理規則
+    └── QUICK_RULES.md       # 快速參考規則
 ```
 
 ## 🗂️ 研究領域分類
@@ -85,6 +91,7 @@ ai_research_papers_study_note/
 
 - [論文索引](papers/index.md) - 瀏覽所有已收錄的論文
 - [導讀索引](guides/index.md) - 查看所有導讀文章
+- [學習工具庫](tools/README.md) - NotebookLM 輔助學習的 Prompts 和模板
 
 ## 📖 使用方式
 
