@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal notes (if any)
+personal_notes/
+draft/
+
+# Large files (PDFs, videos, etc.)
+*.pdf
+*.mp4
+*.avi
+*.mov
+
+# Backup files
+*.bak
+*.backup
+
+# Node.js (if using any tools)
+node_modules/
+npm-debug.log*
+
+# Python (if using any processing scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
