@@ -15,6 +15,9 @@
   - 英文版本: [English](2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_en.md)
   - 導讀: [中文導讀](../guides/2025/reflexion_guide.md)
   - 總結筆記: [Summary](2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_summary.md)
+- [遞迴式摘要功能使大型語言模型具備長期對話記憶](2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_zh.md) - 透過遞迴摘要增強LLM長期對話能力
+  - 英文版本: [English](2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_en.md)
+  - 導讀: [中文導讀](../guides/2025/recursive-memory_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
