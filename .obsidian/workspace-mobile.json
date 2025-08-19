@@ -11,10 +11,14 @@
             "id": "b69c233abb636564",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "guides/2025/recursive-memory_guide.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "recursive-memory_guide"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "guides/2025/recursive-memory_guide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "guides/2025/recursive-memory_guide.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "guides/2025/recursive-memory_guide.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -148,20 +155,26 @@
   },
   "active": "b69c233abb636564",
   "lastOpenFiles": [
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/快速筆記.md",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_zh.md",
+    "guides/2025/recursive-memory_guide.md",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/3027185d7a954d3acadc571450fb3189c94f56e29644f96eb414fafd4a24ddbc.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/e02117a460817873e93aa1340493a18519349d05c3bad3c73cae1e731e5f1fff.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/627b7b1f7d3f11e9f4586547d87d061e3258f016e4afaeb0ea30c44c9075b4a5.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/1d316346b110cfd1adcdbc14b6a022e30bf1c5c01449f81c9193c5168ce95753.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/qingyuetitle1.png",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/3f2906ce33f5a4887b07525261b470c652c3964710969ef80695a309906874e0.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/802102f30d15943254422cf9a8d186916b4d87053c2b1d5cd9722f2995b2cb14.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/截圖 2025-08-17 下午5.44.31.png",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/16b644da30efa938110e8a3b50dfcfe8e6396fb1a01137f7576920d458e41c40.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/b0c8045a1db4b6f084554c66cd201501c2583a093f373e598783c48e8d8f3361.jpg",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_en.md",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models",
     "preparation/recursively_summarizing/31_43.md",
     "preparation/31_43.md",
-    "preparation/recursively_summarizing/images/f538f34e0820c250462614f7d4524eddb0e6b1898858a67760680d937232d377.jpg",
-    "preparation/recursively_summarizing/images/6a826ce947bd5fb86e62b4d2fa57947c547db06df5e442119c398293c913289e.jpg",
-    "preparation/recursively_summarizing/images/a0e759d6523fbfa9071b04351eee4aa88542799286231a87a8910ef7435c99d1.jpg",
-    "preparation/recursively_summarizing/images/802102f30d15943254422cf9a8d186916b4d87053c2b1d5cd9722f2995b2cb14.jpg",
-    "preparation/recursively_summarizing/images/4aeefc5185a72ceea318d8d2581183c7690fdbcada86021c434831943d1f51f5.jpg",
-    "preparation/recursively_summarizing/images/627b7b1f7d3f11e9f4586547d87d061e3258f016e4afaeb0ea30c44c9075b4a5.jpg",
-    "preparation/recursively_summarizing/images/16b644da30efa938110e8a3b50dfcfe8e6396fb1a01137f7576920d458e41c40.jpg",
-    "preparation/recursively_summarizing/images/0076657e77ce58d18f57f53a59ae9db55c45c4318797ccd7adf6efe766f3bc90.jpg",
     "preparation/recursively_summarizing/16_30.md",
     "preparation/recursively_summarizing/recursively_summarizing.2308_250817_114702.md",
-    "preparation/recursively_summarizing/images/d5ee75b768ab56a19b4e39d5fa86c8302816c08094e25a42b42c502845b33067.jpg",
-    "preparation/recursively_summarizing/images/ecdf24f6a65e0ab93d4aa228a67f76116bb425d56f86a59d532b0dfda2fec35e.jpg",
     "preparation/recursively_summarizing/1_15.md",
     "preparation/recursively_summarizing/recursively_summarizing.2308_250817_113018.md",
     "preparation/recursively_summarizing/recursively_summarizing.1_15.md"
