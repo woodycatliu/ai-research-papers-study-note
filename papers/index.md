@@ -21,6 +21,9 @@
 - [LEANN：低儲存向量索引](2025/nlp/leann-low-storage-vector-index/leann_zh.md) - 針對資源受限的個人裝置優化的儲存高效近似最近鄰（ANN）搜尋索引
   - 英文版本: [English](2025/nlp/leann-low-storage-vector-index/leann_en.md)
   - 導讀: [中文導讀](../guides/2025/leann_guide.md)
+- [LAG: 邏輯增強生成](2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md) - 從笛卡爾視角看知識增強的新範式
+  - 英文版本: [English](2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_en.md)
+  - 導讀: [中文導讀](../guides/2025/lag_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
