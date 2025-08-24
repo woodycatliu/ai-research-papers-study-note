@@ -24,6 +24,9 @@
 - [LAG: 邏輯增強生成](2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md) - 從笛卡爾視角看知識增強的新範式
   - 英文版本: [English](2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_en.md)
   - 導讀: [中文導讀](../guides/2025/lag_guide.md)
+- [使用精簡語言模型的檢索增強推理](2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md) - 在資源受限環境中結合推理與RAG的輕量化方案
+  - 英文版本: [English](2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_en.md)
+  - 導讀: [中文導讀](../guides/2025/rag-lean_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->

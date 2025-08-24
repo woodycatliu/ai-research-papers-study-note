@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e688a29bac653c4e",
+        "id": "7c84f8f0d631fad6",
         "type": "tabs",
         "children": [
           {
-            "id": "b69c233abb636564",
+            "id": "3c83141a7361e683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
+                "file": "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAG_Logic_Augmented_Generation_2508_250822_064219"
+              "title": "lag_zh"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
+            "file": "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,27 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b69c233abb636564",
+  "active": "3c83141a7361e683",
   "lastOpenFiles": [
-    "preparation/lag_logic_augments/images/sim_c_.png",
-    "preparation/lag_logic_augments/images/截圖 2025-08-22 中午12.53.25.png",
-    "preparation/lag_logic_augments/images/are_answered_and_yet_cannot_be_resolved.png",
-    "preparation/lag_logic_augments/images/截圖 2025-08-22 中午12.52.43.png",
-    "preparation/lag_logic_augments/images/denote_the_cosine_similarity_betwwen.png",
-    "preparation/lag_logic_augments/images/截圖 2025-08-22 中午12.51.36.png",
-    "preparation/lag_logic_augments/images/the-query_embedding_at_step.png",
-    "preparation/lag_logic_augments/images/截圖 2025-08-22 中午12.50.40.png",
-    "preparation/lag_logic_augments/images/splitcondition_marhrm.png",
-    "preparation/lag_logic_augments/images/截圖 2025-08-22 中午12.47.34.png",
+    "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_en.md",
+    "papers/2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_summary.md",
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/快速筆記.md",
+    "papers/2025/nlp/cognitive-architectures-for-language-agents/coala_導讀.md",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
+    "papers/2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_zh.md",
+    "papers/2025/nlp/provence-efficient-and-robust-context-pruning-for-retrieval-augmented-generation/provence_導讀.md",
+    "guides/2025/lag_guide.md",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/the-query_embedding_at_step.png",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/8aff6a6e3563ffbdfdb517ef8c69feb5767d12ebada1deaefa7599030b4374d4.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/d288840910903b6dab9b01cf88d9a4c41bac3a46908ece755dfab0876d99f8a3.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/40977a1827871c6a07e634321f95b85291a8376e4c3a21fe57f4341091eef1c9.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/bf663d8ea49a95543fb652438d1329e2a4087a8b103703d64b41cc1d1e1039f0.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/f771cc429e45a740d1f9de70e83ded88d2af76a7d6e8e0b95579cc420f18d47b.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/are_answered_and_yet_cannot_be_resolved.png",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/splitcondition_marhrm.png",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/475fb7e0c8d2a6bc2b980760de6f1a2cf4e0c9d305d67298f2628081072118fe.jpg",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images/sim_c_.png",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_simplified.md",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images",
+    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective",
     "papers/2025/nlp/leann-low-storage-vector-index/重點概要.md",
     "papers/2025/nlp/leann-low-storage-vector-index/leann_zh.md",
     "papers/2025/nlp/leann-low-storage-vector-index/leann_en.md",
     "guides/2025/leann_guide.md",
     "guides/2025/provence_guide.md",
     "guides/2025/recursive-memory_guide.md",
-    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/快速筆記.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_zh.md",
-    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images/3027185d7a954d3acadc571450fb3189c94f56e29644f96eb414fafd4a24ddbc.jpg",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_en.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models",
