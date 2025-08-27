@@ -27,6 +27,9 @@
 - [使用精簡語言模型的檢索增強推理](2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md) - 在資源受限環境中結合推理與RAG的輕量化方案
   - 英文版本: [English](2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_en.md)
   - 導讀: [中文導讀](../guides/2025/rag-lean_guide.md)
+- [Multi-view Content-aware Indexing for Long Document Retrieval: 長文件檢索的多視角內容感知索引](2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md) - 透過多視角內容感知索引提升長文件檢索效率
+  - 英文版本: [English](2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_en.md)
+  - 導讀: [中文導讀](../guides/2025/multi_view_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->

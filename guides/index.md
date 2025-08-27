@@ -12,6 +12,7 @@
 - [LEANN：低儲存向量索引導讀](2025/leann_guide.md) - 針對資源受限的個人裝置優化的儲存高效近似最近鄰（ANN）搜尋索引
 - [LAG: 邏輯增強生成導讀](2025/lag_guide.md) - 整合系統性分解與可控推理的檢索增強生成新框架
 - [使用精簡語言模型的檢索增強推理導讀](2025/rag-lean_guide.md) - 在隱私敏感和資源受限環境中部署RAG系統的輕量化解決方案
+- [Multi-view Content-aware Indexing for Long Document Retrieval 導讀](2025/multi_view_guide.md) - 透過內容感知分塊和多視角索引提升長文件檢索性能
 
 ---
 
