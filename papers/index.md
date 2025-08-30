@@ -30,6 +30,9 @@
 - [Multi-view Content-aware Indexing for Long Document Retrieval: 長文件檢索的多視角內容感知索引](2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md) - 透過多視角內容感知索引提升長文件檢索效率
   - 英文版本: [English](2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_en.md)
   - 導讀: [中文導讀](../guides/2025/multi_view_guide.md)
+- [Memento: 無需微調 LLM 即可微調 LLM 代理](2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_zh.md) - 基於記憶體的學習範式，使 LLM 代理無需更新模型權重即可線上適應
+  - 英文版本: [English](2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_en.md)
+  - 導讀: [中文導讀](../guides/2025/memento_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->

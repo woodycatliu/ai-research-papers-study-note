@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/快速閱讀.md",
+                "file": "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -58,11 +58,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "快速閱讀"
+              "title": "multi_view_zh"
+            }
+          },
+          {
+            "id": "1d1ce67e7c4c07ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文預選區/原文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原文"
+            }
+          },
+          {
+            "id": "c0c0819b59afaea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文預選區/中文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中文"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md",
+            "file": "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -195,11 +223,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b29773bffd83e82",
+  "active": "73a0f4978a7a0a9c",
   "lastOpenFiles": [
+    "論文預選區/原文.md",
+    "論文預選區/中文.md",
+    "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
+    "論文預選區",
+    "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/快速閱讀.md",
+    "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/快速閱讀.md",
     "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md",
     "papers/index.md",
-    "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/快速閱讀.md",
     "guides/2025/rag-lean_guide.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
     "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
@@ -232,10 +265,6 @@
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_zh.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_en.md",
-    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models",
-    "preparation/recursively_summarizing/31_43.md",
-    "preparation/31_43.md",
-    "preparation/recursively_summarizing/16_30.md",
-    "preparation/recursively_summarizing/recursively_summarizing.2308_250817_114702.md"
+    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models"
   ]
 }
