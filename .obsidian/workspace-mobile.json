@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文預選區/中文.md",
-                "mode": "source",
-                "source": false
+                "file": "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_zh.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "中文"
+              "title": "memento_zh"
             }
           }
         ],
@@ -223,10 +223,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a0f4978a7a0a9c",
+  "active": "c0c0819b59afaea4",
   "lastOpenFiles": [
-    "論文預選區/原文.md",
+    "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/快速閱讀.md",
+    "preparation/README_RULES.md",
     "論文預選區/中文.md",
+    "論文預選區/原文.md",
     "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
     "論文預選區",
     "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/快速閱讀.md",
@@ -262,9 +264,7 @@
     "guides/2025/leann_guide.md",
     "guides/2025/provence_guide.md",
     "guides/2025/recursive-memory_guide.md",
-    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_zh.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
-    "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/recursive-memory_en.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models"
   ]
 }

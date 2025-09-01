@@ -33,6 +33,9 @@
 - [Memento: 無需微調 LLM 即可微調 LLM 代理](2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_zh.md) - 基於記憶體的學習範式，使 LLM 代理無需更新模型權重即可線上適應
   - 英文版本: [English](2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_en.md)
   - 導讀: [中文導讀](../guides/2025/memento_guide.md)
+- [小型語言模型是代理式 AI 的未來](2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md) - SLM 在代理式 AI 系統中的潛力
+  - 英文版本: [English](2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_en.md)
+  - 導讀: [中文導讀](../guides/2025/slm-agent-ai_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
