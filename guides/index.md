@@ -15,6 +15,7 @@
 - [Multi-view Content-aware Indexing for Long Document Retrieval 導讀](2025/multi_view_guide.md) - 透過內容感知分塊和多視角索引提升長文件檢索性能
 - [Memento: 無需微調 LLM 即可微調 LLM 代理導讀](2025/memento_guide.md) - 基於記憶體的學習範式，使 LLM 代理無需更新模型權重即可線上適應
 - [小型語言模型是代理式 AI 的未來導讀](2025/slm-agent-ai_guide.md) - SLM 在代理式 AI 系統中的潛力
+- [On the Theoretical Limitations of Embedding-based Retrieval 導讀](2025/retrieval-limitations_guide.md) - 關於基於嵌入的檢索理論限制的導讀
 
 ---
 

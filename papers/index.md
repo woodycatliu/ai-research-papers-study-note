@@ -36,6 +36,9 @@
 - [小型語言模型是代理式 AI 的未來](2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md) - SLM 在代理式 AI 系統中的潛力
   - 英文版本: [English](2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_en.md)
   - 導讀: [中文導讀](../guides/2025/slm-agent-ai_guide.md)
+- [On the Theoretical Limitations of Embedding-based Retrieval](2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_zh.md) - 關於基於嵌入的檢索理論限制
+  - 英文版本: [English](2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_en.md)
+  - 導讀: [中文導讀](../guides/2025/retrieval-limitations_guide.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->

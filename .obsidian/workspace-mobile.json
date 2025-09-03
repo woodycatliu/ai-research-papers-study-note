@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_zh.md",
+                "file": "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "memento_zh"
+              "title": "slm-agent-ai_zh"
             }
           }
         ],
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
+            "file": "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -225,7 +225,11 @@
   },
   "active": "c0c0819b59afaea4",
   "lastOpenFiles": [
+    "papers/index.md",
+    "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_en.md",
+    "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/快速閱讀.md",
     "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/快速閱讀.md",
+    "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_zh.md",
     "preparation/README_RULES.md",
     "論文預選區/中文.md",
     "論文預選區/原文.md",
@@ -234,7 +238,6 @@
     "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/快速閱讀.md",
     "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/快速閱讀.md",
     "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md",
-    "papers/index.md",
     "guides/2025/rag-lean_guide.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
     "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
@@ -261,9 +264,6 @@
     "papers/2025/nlp/leann-low-storage-vector-index/重點概要.md",
     "papers/2025/nlp/leann-low-storage-vector-index/leann_zh.md",
     "papers/2025/nlp/leann-low-storage-vector-index/leann_en.md",
-    "guides/2025/leann_guide.md",
-    "guides/2025/provence_guide.md",
-    "guides/2025/recursive-memory_guide.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models"
   ]
