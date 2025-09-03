@@ -110,4 +110,45 @@ ai_research_papers_study_note/
 
 ---
 
+## 🚀 下一個版本更新：論文處理工作流程
+
+### 1. 論文分析大綱 (Paper Analysis Outline)
+
+*   **目標**：透過結構化的分析流程，確保論文的全面理解和高效筆記生成。
+*   **流程**：分為 4 個主要階段，每個階段包含多個細項分析類別。
+
+### 2. 主要大綱 (Main Outlines)
+
+#### 2.1. 背景與問題 (Background & Problem)
+*   **目標**：釐清論文的研究動機與欲解決的核心問題。
+*   **分析類別 (Analysis Categories)**：
+    1.  **研究背景 (Research Background)**：該研究領域的歷史、現狀及發展趨勢。
+    2.  **問題陳述 (Problem Statement)**：論文試圖解決的具體問題，其挑戰性與重要性。
+    3.  **痛點分析 (Pain Points Analysis)**：現有解決方案的不足與局限性。
+    4.  **研究意義 (Significance of Research)**：該研究的理論價值與實際應用潛力。
+    *   **對應 Prompt**：`prompt-analysis-background-problem.md`
+
+#### 2.2. 方法與模型 (Methods & Model)
+*   **目標**：深入理解論文提出的解決方案及其技術細節。
+*   **分析類別 (Analysis Categories)**：
+    5.  **核心方法論 (Core Methodology)**：論文提出的關鍵技術、演算法或框架。
+    6.  **模型架構 (Model Architecture)**：模型組成、各模組功能與協作方式。
+    7.  **創新點 (Novelty & Innovation)**：與現有方法的區別、獨特之處。
+    *   **對應 Prompt**：`prompt-analysis-methods-model.md`
+
+#### 2.3. 實驗與結果 (Experiments & Results)
+*   **目標**：評估論文實驗設計的合理性、結果的可靠性及貢獻。
+*   **分析類別 (Analysis Categories)**：
+    8.  **實驗設計 (Experimental Design)**：數據集、評估指標、對照組設置。
+    9.  **結果分析 (Result Analysis)**：實驗數據、圖表解讀、性能優勢。
+    *   **對應 Prompt**：`prompt-analysis-experiments-results.md`
+
+#### 2.4. 討論與結論 (Discussion & Conclusion)
+*   **目標**：形成對論文的綜合性理解和批判性思考。
+*   **分析類別 (Analysis Categories)**：
+    10. **未來工作 (Future Work)**：論文提出或可延伸的研究方向與潛在影響。
+    *   **對應 Prompt**：`prompt-analysis-discussion-conclusion.md`
+
+---
+
 *最後更新: 2025-08-16*
