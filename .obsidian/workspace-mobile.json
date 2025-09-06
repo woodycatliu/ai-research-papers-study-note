@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md",
+                "file": "papers/2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_summary.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "slm-agent-ai_zh"
+              "title": "retrieval-limitations_summary"
             }
           }
         ],
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md",
+            "file": "papers/2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_summary.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -225,6 +225,9 @@
   },
   "active": "c0c0819b59afaea4",
   "lastOpenFiles": [
+    "papers/2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_zh.md",
+    "papers/2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_summary.md",
+    "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_zh.md",
     "papers/index.md",
     "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/slm-agent-ai_en.md",
     "papers/2025/nlp/small-language-models-are-the-future-of-agentic-ai/快速閱讀.md",
@@ -261,9 +264,6 @@
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_simplified.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective",
-    "papers/2025/nlp/leann-low-storage-vector-index/重點概要.md",
-    "papers/2025/nlp/leann-low-storage-vector-index/leann_zh.md",
-    "papers/2025/nlp/leann-low-storage-vector-index/leann_en.md",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models"
   ]
