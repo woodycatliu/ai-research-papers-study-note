@@ -39,6 +39,10 @@
 - [On the Theoretical Limitations of Embedding-based Retrieval](2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_zh.md) - 關於基於嵌入的檢索理論限制
   - 英文版本: [English](2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_en.md)
   - 導讀: [中文導讀](../guides/2025/retrieval-limitations_guide.md)
+- [FB-RAG: 利用前瞻與後瞻檢索改善 RAG](2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_zh.md) - 透過前瞻機制改善檢索品質的免訓練框架
+  - 英文版本: [English](2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_en.md)
+  - 導讀: [中文導讀](../guides/2025/fb_rag_guide.md)
+  - 總結筆記: [Summary](2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
