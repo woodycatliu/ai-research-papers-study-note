@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/nlp/instructrag-instructing-retrieval-augmented-generation-via-self-synthesized-rationales/instructrag_zh.md",
+                "file": "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "instructrag_zh"
+              "title": "fb_rag_summary"
             }
           }
         ],
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "papers/2025/nlp/instructrag-instructing-retrieval-augmented-generation-via-self-synthesized-rationales/instructrag_zh.md",
+            "file": "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -225,9 +225,12 @@
   },
   "active": "c0c0819b59afaea4",
   "lastOpenFiles": [
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_en.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_zh.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
+    "papers/2025/nlp/instructrag-instructing-retrieval-augmented-generation-via-self-synthesized-rationales/instructrag_zh.md",
     "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_en.md",
     "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_en.md",
-    "papers/2025/nlp/instructrag-instructing-retrieval-augmented-generation-via-self-synthesized-rationales/instructrag_zh.md",
     "papers/2025/nlp/on-the-theoretical-limitations-of-embedding-based-retrieval/retrieval-limitations_summary.md",
     "preparation/paper_download_and_process_prompt.md",
     "guides/2025/instructrag_guide.md",
@@ -261,9 +264,6 @@
     "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md",
     "guides/2025/rag-lean_guide.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
-    "preparation/lag_logic_augments/LAG_Logic_Augmented_Generation_2508_250822_064219.md",
-    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_en.md",
-    "papers/2025/nlp/reflexion-language-agents-with-verbal-reinforcement-learning/reflexion_summary.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
