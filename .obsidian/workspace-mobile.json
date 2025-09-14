@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
-                "mode": "preview",
-                "source": true
+                "file": "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_simplified.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "fb_rag_summary"
+              "title": "lag_simplified"
             }
           }
         ],
@@ -225,9 +225,15 @@
   },
   "active": "c0c0819b59afaea4",
   "lastOpenFiles": [
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/analysis/07_實際應用.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/analysis/06_討論與結論.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/analysis/05_結果與數據.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/analysis/02_文獻基本訊息.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/analysis/01_文獻閱讀工作流.md",
+    "papers/2025/nlp/agentgym-rl-training-llm-agents-for-long-horizon-decision-making-through-multi-turn-reinforcement-learning/analysis/01_文獻閱讀工作流.md",
+    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
     "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_en.md",
     "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_zh.md",
-    "papers/2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md",
     "papers/2025/nlp/instructrag-instructing-retrieval-augmented-generation-via-self-synthesized-rationales/instructrag_zh.md",
     "papers/2025/nlp/memento-fine-tuning-llm-agents-without-fine-tuning-llms/memento_en.md",
     "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_en.md",
@@ -257,13 +263,7 @@
     "preparation/README_RULES.md",
     "論文預選區/中文.md",
     "論文預選區/原文.md",
-    "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/multi_view_zh.md",
     "論文預選區",
-    "papers/2025/nlp/multi-view-content-aware-indexing-for-long-document-retrieval/快速閱讀.md",
-    "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/快速閱讀.md",
-    "papers/2025/nlp/retrieval-augmented-reasoning-with-lean-language-models/rag-lean_zh.md",
-    "guides/2025/rag-lean_guide.md",
-    "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/lag_zh.md",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective/images",
     "papers/2025/nlp/lag-logic-augmented-generation-from-a-cartesian-perspective",
     "papers/2025/nlp/recursively-summarizing-enables-long-term-dialogue-memory-in-large-language-models/images",
