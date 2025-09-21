@@ -19,6 +19,7 @@
 - [小型語言模型是代理式 AI 的未來導讀](2025/slm-agent-ai_guide.md) - SLM 在代理式 AI 系統中的潛力
 - [On the Theoretical Limitations of Embedding-based Retrieval 導讀](2025/retrieval-limitations_guide.md) - 關於基於嵌入的檢索理論限制的導讀
 - [FB-RAG：利用前瞻與後瞻檢索改善 RAG 導讀](2025/fb_rag_guide.md) - 透過前瞻機制改善檢索品質的免訓練框架導讀
+- [DeepSeek-R1: 透過強化學習激勵大型語言模型的推理能力導讀](2025/deepseek_r1_rlhf_guide.md) - 透過純強化學習激發LLM的推理能力，擺脫對人類標註的依賴
 
 ---
 

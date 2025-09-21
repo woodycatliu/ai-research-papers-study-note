@@ -51,6 +51,10 @@
   - 英文版本: [English](2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_en.md)
   - 導讀: [中文導讀](../guides/2025/fb_rag_guide.md)
   - 總結筆記: [Summary](2025/nlp/fb-rag-improving-rag-with-forward-and-backward-lookup/fb_rag_summary.md)
+- [DeepSeek-R1: 透過強化學習激勵大型語言模型的推理能力](2025/nlp/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning/deepseek_r1_rlhf_zh.md) - 透過純強化學習提升LLM的推理能力，無需人類標註的推理路徑
+  - 英文版本: [English](2025/nlp/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning/deepseek_r1_rlhf_en.md)
+  - 導讀: [中文導讀](../guides/2025/deepseek_r1_rlhf_guide.md)
+  - 總結筆記: [Summary](2025/nlp/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning/deepseek_r1_rlhf_summary.md)
 
 ### Others
 <!-- 在此添加其他領域相關論文 -->
@@ -62,12 +66,4 @@
 每篇論文包含以下檔案：
 1. **英文筆記**: `論文名稱_en.md`
 2. **中文筆記**: `論文名稱_zh.md` 
-3. **中文導讀**: 存放於 `guides/` 資料夾
-4. **讀書心得**: 可包含在導讀中或單獨建檔
-
-請按照以下格式添加索引項目：
-```markdown
-- [論文標題](相對路徑/論文名稱_zh.md) - 簡短描述
-  - 英文版本: [English](相對路徑/論文名稱_en.md)
-  - 導讀: [中文導讀](../guides/年份/論文名稱_guide.md)
-```
+3. **中文導讀**: 存放於 `guides/`
